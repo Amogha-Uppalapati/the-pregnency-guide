@@ -1402,6 +1402,10 @@ html {
     flex-direction:row;
     flex-wrap: wrap; 
     gap:3rem;
+  
+    align-self: center;
+    justify-content: center;
+    margin : 1rem;
   }
   .card-container{
     width:320px;
